@@ -1,0 +1,60 @@
+Template instructions
+=====================
+
+Dealership Template
+-------------------
+
+```
+CITY
+====
+
+MANUFACTURER
+------------
+
+| STATE |     MODEL     |     VERSION     |     YEAR     |     TYPE     |     TUNE     | URL |
+|-------|---------------|-----------------|--------------|--------------|--------------|-----|
+|  OVH  |               |                 |              |              |              |     |
+|  MVH  |               |                 |              |              |              |     |
+
+Note:
+  O means ORIGINAL.
+    Made by Polyphony Digital and added to final release.
+
+  M means MODIFIED.
+    Composed by modders, being it original or a recreation of a Polyphony's/real model.
+
+  H means HIDDEN.
+    [+} Used with the mentioned before.
+    Made by Polyphony Digital, but not added to final release.
+    Can be obtained by cheating/trading.
+
+  V means VERSION.
+    [+] Used with the mentioned before.
+    Provide a more detailed distinction between versions.
+```
+
+STATEs versioning badges can be really different, such as:
+
+- 🟥🟦🇺🇸 Gran Turismo US/CA.
+- 🟥🟦🇪🇺 Gran Turismo EU.
+- 🟥🟦🇯🇵 Gran Turismo JP.
+
+STATEs can add extra badges, such as:
+
+- 🔒 Hidden Gran Turismo content.
+- ⚙️  Modded Gran Turismo.
+- ⚙️➕ Gran Turismo: Plus.
+- ⚙️🅰️ Gran Turismo: Project A-Spec.
+
+URLs should contain clickable location badges, such as:
+
+- 🌎 Americas mirror.
+- 🌍 Europe/Africa mirror.
+- 🌏 Asia/Australia mirror.
+- 🌐 plain globe if undefined.
+
+Licence Template
+----------------
+
+- 🔰 Should be used as broze-trophy licence category completed.
+
