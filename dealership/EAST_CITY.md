@@ -10,24 +10,24 @@ DAIHATSU
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |     Midget    |    II D-type    |     1998     |      N       |   ORIGINAL   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_Midget_II_D-Type_'98)   |
+| 🟥🟦    |     Midget    |    II D-type    |     1998     |      N       |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_Midget_II_D-Type_'98)   |
 
 * Mira:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |     Mira      |      TR-XX      |     1990     |     N/R      |   ORIGINAL   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_Mira_TR-XX_'90)         |
-| 🟥🟦    |     Mira      |       TX        |     1998     |     N/R      |   ORIGINAL   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_Mira_TX_(4WD)_'98)      |
-| 🟥🟦    |     Mira      |       TR        |     1998     |     N/R      |   ORIGINAL   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_Mira_TR_(4WD)_'98)      |
+| 🟥🟦    |     Mira      |      TR-XX      |     1990     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_Mira_TR-XX_'90)         |
+| 🟥🟦    |     Mira      |       TX        |     1998     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_Mira_TX_(4WD)_'98)      |
+| 🟥🟦    |     Mira      |       TR        |     1998     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_Mira_TR_(4WD)_'98)      |
 
 * STORIA:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |     STORIA    |     CX (2WD)    |     1998     |     N/R      |   ORIGINAL   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_STORIA_CX_2WD_'98)      |
-| 🟥🟦    |     STORIA    |     CX (4WD)    |     1998     |     N/R      |   ORIGINAL   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_STORIA_CX_4WD_'98)      |
-| 🟥🟦    |     STORIA    |       X4        |     1998     |     N/R      |   ORIGINAL   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_STORIA_X4_'98)          |
-| 🟥🟦⚙️➕ |     STORIA    |   X4 Rally Car  |     1998     |      R       |   ORIGINAL   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_STORIA_X4_Rally_Car)    |
+| 🟥🟦    |     STORIA    |     CX (2WD)    |     1998     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_STORIA_CX_2WD_'98)      |
+| 🟥🟦    |     STORIA    |     CX (4WD)    |     1998     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_STORIA_CX_4WD_'98)      |
+| 🟥🟦    |     STORIA    |       X4        |     1998     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_STORIA_X4_'98)          |
+| 🟥🟦⚙️➕ |     STORIA    |   X4 Rally Car  |     1998     |      R       |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Daihatsu_STORIA_X4_Rally_Car)    |
 
 HONDA
 -----
@@ -36,39 +36,39 @@ HONDA
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |      NSX      |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |      NSX      |                 |              |              |   Original   | [🌐]() |
 | 🟥🟦    |      NSX      |                 |              |              |    ACURA     | [🌐]() |
 
 * Civic:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |     CIVIC     |                 |              |              |   ORIGINAL   | [🌐]() |
-| 🟥🟦    |     CIVIC     |                 |              |              |    MUGEN     | [🌐]() |
-| 🟥🟦    |     CIVIC     |                 |              |              |    SPOON     | [🌐]() |
+| 🟥🟦    |     CIVIC     |                 |              |              |   Original   | [🌐]() |
+| 🟥🟦    |     CIVIC     |                 |              |              |    Mugen     | [🌐]() |
+| 🟥🟦    |     CIVIC     |                 |              |              |    Spoon     | [🌐]() |
 
 * Beat:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |     BEAT      |                 |              |              |   ORIGINAL   | [🌐]() |
-| 🟥🟦    |     BEAT      |                 |              |              |    MUGEN     | [🌐]() |
+| 🟥🟦    |     BEAT      |                 |              |              |   Original   | [🌐]() |
+| 🟥🟦    |     BEAT      |                 |              |              |    Mugen     | [🌐]() |
 
 * Type-R:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |     Type-R      |              |              |   ORIGINAL   | [🌐]() |
-| 🟥🟦    |               |     Type-R      |              |              |    MUGEN     | [🌐]() |
-| 🟥🟦    |               |     Type-R      |              |              |    SPOON     | [🌐]() |
+| 🟥🟦    |               |     Type-R      |              |              |   Original   | [🌐]() |
+| 🟥🟦    |               |     Type-R      |              |              |    Mugen     | [🌐]() |
+| 🟥🟦    |               |     Type-R      |              |              |    Spoon     | [🌐]() |
 
 * S2000:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |     S2000     |                 |              |     N/R      |   ORIGINAL   | [🌐]() |
-| 🟥🟦    |     S2000     |                 |              |      N       |    MUGEN     | [🌐]() |
-| 🟥🟦    |     S2000     |                 |              |     N/R      |    SPOON     | [🌐]() |
+| 🟥🟦    |     S2000     |                 |              |     N/R      |   Original   | [🌐]() |
+| 🟥🟦    |     S2000     |                 |              |      N       |    Mugen     | [🌐]() |
+| 🟥🟦    |     S2000     |                 |              |     N/R      |    Spoon     | [🌐]() |
 
 MAZDA
 -----
@@ -77,25 +77,25 @@ MAZDA
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * Roadster:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * Demio:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * AZ-1:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 MITSUBISHI
 ----------
@@ -104,13 +104,13 @@ MITSUBISHI
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * Evolution:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 
 NISSAN
@@ -118,71 +118,56 @@ NISSAN
 
 * Silvia/180SX:
 
-| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
-|---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
-```
-- Nissan Sileighty (N/R)
-- Nissan Silvia Q's '91 (N/R)
-- Nissan Silvia Spec S '99 (N/R)
-- Nissan Silvia K's '88 (N/R)
-- Nissan Silvia Spec R Aero '99 (N/R)
-- Nissan 180SX Type S '96 (N/R)
-```
+| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                            URL                                             |
+|---------|---------------|-----------------|--------------|--------------|--------------|--------------------------------------------------------------------------------------------|
+| 🟥🟦    |     Silvia    |       K's       |     1988     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SILVIA_K's_(S13)_'88)                     |
+| 🟥🟦    |     Silvia    |       Q's       |     1991     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SILVIA_Q's_(S13)_'91)                     |
+| 🟥🟦    |     180SX     |     Type S      |     1996     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_180SX_Type_S_'96)                         |
+| 🟥🟦    |    Sileighty  |                 |     1998     |     N/R      |  Kids-Heart  | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SILEIGHTY)                                |
+| 🟥🟦    |     Silvia    |   Spec R Aero   |     1999     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SILVIA_spec-R_AERO_(S15)_'99)             |
+| 🟥🟦    |     Silvia    |     Spec S      |     1999     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SILVIA_spec-S_(S15)_'99)                  |
 
 * Pulsar:
 
-| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
-|---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
-```
-- Nissan Pulsar GTi-R '91 (N/R)
-- Nissan Pulsar VZ-R '97 (N)
-- Nissan Pulsar VZ-R N1 '97 (N)
-```
+| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                            URL                                             |
+|---------|---------------|-----------------|--------------|--------------|--------------|--------------------------------------------------------------------------------------------|
+| 🟥🟦    |     Pulsar    |      GTi-R      |     1991     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_Pulsar_GTi-R_'91)                         |
+| 🟥🟦    |     Pulsar    |      VZ-R       |     1997     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_Pulsar_VZ-R_'97)                          |
+| 🟥🟦    |     Pulsar    |     VZ-R N1     |     1997     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_Pulsar_VZ-R_N1_'97)                       |
 
-* R34:
+* Skyline R34:
 
-| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
-|---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
-```
-- Mine's Skyline GT-R R34 (N)
-- Nissan Skyline GT-R '99 (N)
-- Nissan Skyline GT-R V Spec '99 (N)
-- Nissan Skyline 25GT Turbo '98 (N)
-```
+| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                            URL                                             |
+|---------|---------------|-----------------|--------------|--------------|--------------|--------------------------------------------------------------------------------------------|
+| 🟥🟦    |    Skyline    |    25GT Turbo   |     1998     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_25GT_Turbo_(R34)_'98)             |
+| 🟥🟦    |    Skyline    |      GT-R       |     1999     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_(R34)_'99)                   |
+| 🟥🟦    |    Skyline    |    GT-R V Spec  |     1999     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_V_•_spec_(R34)_'99)          |
+| 🟥🟦    |    Skyline    |     GT-R R34    |     1999     |      N       |    Mine's    | [🌐](https://gran-turismo.fandom.com/wiki/Mine's_BNR34_SKYLINE_GT-R_N1_V_•_spec_base_'00)  |
 
 * March:
 
-| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
-|---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
-```
-- Nissan March Super Turbo '89 (N/R)
-- Nissan March G# '97 (N/R)
-```
+| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                            URL                                             |
+|---------|---------------|-----------------|--------------|--------------|--------------|--------------------------------------------------------------------------------------------|
+| 🟥🟦    |     March     |   Super Turbo   |     1989     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_March_Super_Turbo_'89)                    |
+| 🟥🟦    |     March     |       G#        |     1997     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_March_G♯_'97)                             |
 
 * GT-R:
 
-| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
-|---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
-```
-- Nissan Skyline GT-R R34 (N)	[Mine's]
-- Nissan Skyline GT-R '90 (N/R) [NISMO]
-- Nissan Skyline GT-R '71 (N/R)
-- Nissan Skyline GT-R '89 (N/R)
-- Nissan Skyline GT-R '91 (N/R)
-- Nissan Skyline GT-R '95 (N)
-- Nissan Skyline GT-R '99 (N/R)
-- Nissan Skyline GT-R V Spec '93 (N/R)
-- Nissan Skyline GT-R V Spec '95 (N/R)
-- Nissan Skyline GT-R V Spec '97 (N)
-- Nissan Skyline GT-R V Spec '99 (N/R)
-- Nissan Skyline GT-R V Spec II '94 (N)
-- Unisia JECS Skyline GT '99 (R)
-```
+| VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                            URL                                             |
+|---------|---------------|-----------------|--------------|--------------|--------------|--------------------------------------------------------------------------------------------|
+| 🟥🟦    |    Skyline    |      GT-R       |     1971     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_Hard_Top_2000GT-R_(KPGC10)_'70)   |
+| 🟥🟦    |    Skyline    |      GT-R       |     1989     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_(R32)_'89)                   |
+| 🟥🟦    |    Skyline    |      GT-R       |     1990     |     N/R      |    Nismo     | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_NISMO_(R32)_'90)             |
+| 🟥🟦    |    Skyline    |      GT-R       |     1991     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_(R32)_'91)                   |
+| 🟥🟦    |    Skyline    |      GT-R       |     1995     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_(R33)_'95)                   |
+| 🟥🟦    |    Skyline    |      GT-R       |     1999     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_(R34)_'99)                   |
+| 🟥🟦    |    Skyline    |    GT-R V Spec  |     1993     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_V_•_spec_(R32)_'93)          |
+| 🟥🟦    |    Skyline    |  GT-R V Spec II |     1994     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_V_•_spec_II_(R32)_'94)       |
+| 🟥🟦    |    Skyline    |    GT-R V Spec  |     1995     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_V_•_spec_(R33)_'95)          |
+| 🟥🟦    |    Skyline    |    GT-R V Spec  |     1997     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_V_•_spec_(R33)_'97)          |
+| 🟥🟦    |    Skyline    |    GT-R V Spec  |     1999     |     N/R      |   Original   | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_SKYLINE_GT-R_V_•_spec_(R34)_'99)          |
+| 🟥🟦    |    Skyline    |     GT-R R34    |     1999     |      N       |    Mine's    | [🌐](https://gran-turismo.fandom.com/wiki/Mine's_BNR34_SKYLINE_GT-R_N1_V_•_spec_base_'00)  |
+| 🟥🟦    |    Skyline    |     GT-R R33    |     1999     |     N/R      |    JECS      | [🌐](https://gran-turismo.fandom.com/wiki/Nissan_Unisia_JECS_Skyline_GT_(JGTC)_'99)        |
 
 SUBARU
 ------
@@ -191,13 +176,13 @@ SUBARU
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * Impreza:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 
 SUZUKI
@@ -207,13 +192,13 @@ SUZUKI
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * Cappuccino:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 
 Tommy Kaira
@@ -223,7 +208,7 @@ Tommy Kaira
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 
 TOYOTA
@@ -233,29 +218,29 @@ TOYOTA
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * Starlet:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * MR-S:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * Altezza:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
 * Vitz:
 
 | VERSION |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |                                    URL                                     |
 |---------|---------------|-----------------|--------------|--------------|--------------|----------------------------------------------------------------------------|
-| 🟥🟦    |               |                 |              |              |   ORIGINAL   | [🌐]() |
+| 🟥🟦    |               |                 |              |              |   Original   | [🌐]() |
 
