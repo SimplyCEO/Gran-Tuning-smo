@@ -11,10 +11,10 @@ CITY
 MANUFACTURER
 ------------
 
-| STATE |     MODEL     |     VERSION     |     YEAR     |     TYPE     |     TUNE     | URL |
-|-------|---------------|-----------------|--------------|--------------|--------------|-----|
-|  OVH  |               |                 |              |              |              |     |
-|  MVH  |               |                 |              |              |              |     |
+|  GAME   |     MODEL     |     VERSION     |     YEAR     |    LIVERY    |     TUNE     |       PRICE       |                                            URL                                             |
+|---------|---------------|-----------------|--------------|--------------|--------------|-------------------|--------------------------------------------------------------------------------------------|
+|  OVH    |               |                 |              |              |              |                   | [G](https://github.com/SimplyCEO/Gran-Tuningsmo/)                                          |
+|  MVH    |               |                 |              |              |              |                   | [G](https://github.com/SimplyCEO/Gran-Tuningsmo/)                                          |
 
 Note:
   O means ORIGINAL.
@@ -31,15 +31,18 @@ Note:
   V means VERSION.
     [+] Used with the mentioned before.
     Provide a more detailed distinction between versions.
+
+  G means GLOBE.
+    Provide the URL with location.
 ```
 
-STATEs versioning badges can be really different, such as:
+Game versioning badges can be different based on their location release, such as:
 
 - 🟥🟦🇺🇸 Gran Turismo US/CA.
 - 🟥🟦🇪🇺 Gran Turismo EU.
 - 🟥🟦🇯🇵 Gran Turismo JP.
 
-STATEs can add extra badges, such as:
+Game versioning can add extra badges, such as:
 
 - 🔒 Hidden Gran Turismo content.
 - ⚙️  Modded Gran Turismo.
@@ -51,10 +54,10 @@ URLs should contain clickable location badges, such as:
 - 🌎 Americas mirror.
 - 🌍 Europe/Africa mirror.
 - 🌏 Asia/Australia mirror.
-- 🌐 plain globe if undefined.
+- 🌐 Worldwide globe if undefined.
 
 Licence Template
 ----------------
 
-- 🔰 Should be used as broze-trophy licence category completed.
+- 🔰 Should be used as bronze-trophy licence category completed.
 
