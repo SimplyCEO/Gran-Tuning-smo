@@ -16,6 +16,20 @@ Check out the topics about this wiki:
 Contains information about vehicles that can be used for such events,
 as well as save files with already tuned vehicles.
 
+Garages
+-------
+
+- Licence save games 🔰:<br>
+  <details><summary>Gran Turismo 2 (EU)</summary>
+
+  [B](/licence/EU/GT2_PAL_-_B_Licence.mcd) | 
+  [A](/licence/EU/GT2_PAL_-_A_Licence.mcd) | 
+  [IC](/licence/EU/GT2_PAL_-_IC_Licence.mcd) | 
+  [IB](/licence/EU/GT2_PAL_-_IB_Licence.mcd) | 
+  [IA](/licence/EU/GT2_PAL_-_IA_Licence.mcd)
+
+  </details>
+
 Contributors
 ------------
 
